@@ -4,7 +4,7 @@ Custom Retail Dataset Builder App
 
 ## Getting Started
 
-This project is a demo Android and iOS Dataset builder for retail products.
+This project is a Android and iOS Dataset builder.
 
 
 For help getting started with CRDB, view our
